@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Build script for serving static content instead of php files
 
 DEST="./public_html"
